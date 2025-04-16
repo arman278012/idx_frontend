@@ -1,3 +1,3 @@
 export const notebookUrl = {
-    baseURL: "http://localhost:8081/api",
+    baseURL: "https://idx-backend-e8jk.onrender.com/api",
 };
