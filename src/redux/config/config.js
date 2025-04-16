@@ -1,3 +1,3 @@
 export const notebookUrl = {
-    baseURL: "https://idx-backend-e8jk.onrender.com/api",
+    baseURL: "https://note-making-3vjo.onrender.com/api",
 };
